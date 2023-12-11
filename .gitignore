@@ -20,4 +20,4 @@ build/
 .ipynb_checkpoints/
 *.csv
 *.png
-
+*.txt
