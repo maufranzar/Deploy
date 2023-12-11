@@ -18,4 +18,6 @@ build/
 .docker/
 # Jupyter Notebooks
 .ipynb_checkpoints/
+*.csv
+*.png
 
