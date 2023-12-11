@@ -1,3 +1,5 @@
+[core]
+    autostage = true
 ['remote "remote_dataset"']
     url = gdrive://1InDQ0NFQliDkwQAjFv71i_kZD1YcGYmU
 ['remote "remote_model"']
